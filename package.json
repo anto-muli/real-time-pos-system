@@ -1,0 +1,25 @@
+{
+  "name": "real-time-pos-system",
+  "version": "1.0.0",
+  "description": "Node.js app that connects a react-pos app to the datatbase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anto-muli/real-time-pos-system.git"
+  },
+  "author": "Anthony Muli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anto-muli/real-time-pos-system/issues"
+  },
+  "homepage": "https://github.com/anto-muli/real-time-pos-system#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "0.0.1-security",
+    "nedb": "^1.8.0",
+    "nodemon": "^3.1.4"
+  }
+}
